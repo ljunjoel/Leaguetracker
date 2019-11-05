@@ -1,0 +1,96 @@
+commit c885274d755de730279749407ef6ea4c73902163
+Author: Joel <joel.ljungqvist@hotmail.com>
+Date:   Tue Nov 5 20:49:02 2019 +0200
+
+    pienen sähläyksen jälkeen melkein oikein tehty nimenmuutos ja poisto(note to self älä muokkaa tiedostoja käsin)
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 12f920cf8c671d0cdad3706f3976c3e6586d47d4
+Author: Joel <joel.ljungqvist@hotmail.com>
+Date:   Tue Nov 5 20:39:48 2019 +0200
+
+    tiedostoja dir luotu
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit f6385d66cea10539e53c9447869963af32a11a08
+Author: Joel <joel.ljungqvist@hotmail.com>
+Date:   Tue Nov 5 20:33:24 2019 +0200
+
+    muutettu eka ja kolmas
+
+ eka.txt    | 4 ++--
+ kolmas.txt | 1 +
+ 2 files changed, 3 insertions(+), 2 deletions(-)
+
+commit e8d08be2e104f20aefe8c7c114066e7cf1ecedd6
+Author: Joel <joel.ljungqvist@hotmail.com>
+Date:   Tue Nov 5 20:31:07 2019 +0200
+
+    poistettu toinen.txt, tiedosto.txt un eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ toinen.txt              | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 8c88112314078a4eca821391f4c4e5e406d145bf
+Author: Joel <joel.ljungqvist@hotmail.com>
+Date:   Tue Nov 5 20:27:09 2019 +0200
+
+    tiedosto.txt vempattu
+
+ tiedosto.txt | 18 +-----------------
+ 1 file changed, 1 insertion(+), 17 deletions(-)
+
+commit 446e189b8efc447ae29948b45e469ded20eeea97
+Author: Joel <joel.ljungqvist@hotmail.com>
+Date:   Tue Nov 5 20:25:48 2019 +0200
+
+    tiedosto copypastattu
+
+ tiedosto.txt | 69 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 69 insertions(+)
+
+commit 6b8cf7ce2919318b9efd8152947eafc0e37422b5
+Author: Joel <joel.ljungqvist@hotmail.com>
+Date:   Tue Nov 5 20:15:53 2019 +0200
+
+    stuff directory luotu
+
+ stuff/neljas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 058130f7b1e03686410ebe83650a2764fed00be1
+Author: Joel <joel.ljungqvist@hotmail.com>
+Date:   Tue Nov 5 20:14:38 2019 +0200
+
+    kolmas.txt luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit f73d7fb3499730a0fc9bdac58df96d67b0e5946b
+Author: Joel <joel.ljungqvist@hotmail.com>
+Date:   Tue Nov 5 20:10:54 2019 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 65f653fed8e0f58bb820466cab24c87db3ce0450
+Author: Joel <joel.ljungqvist@hotmail.com>
+Date:   Tue Nov 5 20:07:46 2019 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
