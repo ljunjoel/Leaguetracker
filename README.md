@@ -7,3 +7,4 @@
 [gitlog.txt](https://github.com/ljunjoel/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
 
+# Maybe we'll do better in week 2?
