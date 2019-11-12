@@ -6,6 +6,10 @@
 
 [gitlog.txt](https://github.com/ljunjoel/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
+[dokumentointi](https://github.com/ljunjoel/ot-harjoitustyo/tree/master/dokumentointi)
+
+[vaatimusmäärittely](https://github.com/ljunjoel/ot-harjoitustyo/blob/master/dokumentointi/vaatimusmaarittely.md)
+
 
 # Maybe we'll do better in week 2?
 Yeah right **:P**
