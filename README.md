@@ -14,3 +14,5 @@ Yeah right **:P**
 [dokumentointi](https://github.com/ljunjoel/ot-harjoitustyo/tree/master/dokumentointi)
 
 [vaatimusmäärittely](https://github.com/ljunjoel/ot-harjoitustyo/blob/master/dokumentointi/vaatimusmaarittely.md)
+
+[työaikakirjanpito](https://github.com/ljunjoel/ot-harjoitustyo/blob/master/dokumentointi/tyoaikakirjanpito.md)
