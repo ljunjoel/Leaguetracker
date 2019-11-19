@@ -1,4 +1,4 @@
-#Leaguetracker
+# Leaguetracker
 Ohjelman tarkoitus on mahdollistaa oman pelihistorian tutkiminen datamielessä ilman ylimääräistä päänvaivaa.
 
 [dokumentointi](https://github.com/ljunjoel/ot-harjoitustyo/tree/master/dokumentointi)
