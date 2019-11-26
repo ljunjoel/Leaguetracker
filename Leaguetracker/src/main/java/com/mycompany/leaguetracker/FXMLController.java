@@ -7,7 +7,7 @@ import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.Label;
 
-public class FXMLController implements Initializable {
+public class FXMLController /*implements Initializable*/ {
     
     @FXML
     private Label label;
@@ -18,7 +18,6 @@ public class FXMLController implements Initializable {
         label.setText("Hello World!");
     }
     
-    @Override
     public void initialize(URL url, ResourceBundle rb) {
         // TODO
     }    
