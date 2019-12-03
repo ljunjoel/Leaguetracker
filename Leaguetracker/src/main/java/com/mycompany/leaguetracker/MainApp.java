@@ -63,6 +63,9 @@ public class MainApp extends Application {
         logoutButton.setOnAction((event) -> {
             stage.setScene(loginScene);
         });
+        
+        stage.setScene(loginScene);
+        stage.show();
         /*Parent root = FXMLLoader.load(getClass().getResource("/fxml/Scene.fxml"));
         
         Scene scene = new Scene(root);
@@ -82,7 +85,7 @@ public class MainApp extends Application {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        launch(args);
+        launch(MainApp.class);
     }
 
 }
